@@ -1,0 +1,6 @@
+matplotlib==3.0.2
+numpy==1.15.4
+Pillow==5.3.0
+pyparsing==2.3.0
+torch==1.1.0
+torchvision==0.3.0

@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+__pycache__/
+model/
+log/
+*.pyc
+*.log
+*.tar.gz
+.DS_Store
