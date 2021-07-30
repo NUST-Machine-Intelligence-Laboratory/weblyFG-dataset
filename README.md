@@ -1,6 +1,6 @@
 Introduction
 ------------
-Datasets and source code for our paper **Webly Supervised Fine-Grained Visual Recognition: Benchmark Datasets and An Approach**
+Datasets and source code for our paper **Webly Supervised Fine-Grained Recognition: Benchmark Datasets and An Approach**
 
 
 ---
@@ -161,7 +161,7 @@ Citation
 If you find this useful in your research, please consider citing:
 ```
 @inproceedings{
-title={Webly Supervised Fine-Grained Visual Recognition: Benchmark Datasets and An Approach},
+title={Webly Supervised Fine-Grained Recognition: Benchmark Datasets and An Approach},
 author={Zeren Sun, Yazhou Yao, Xiu-Shen Wei, Yongshun Zhang, Fumin Shen, Jianxin Wu, Jian Zhang, Heng Tao Shen},
 booktitle={IEEE International Conference on Computer Vision (ICCV)},
 year={2021}
