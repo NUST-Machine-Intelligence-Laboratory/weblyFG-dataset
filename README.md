@@ -39,6 +39,29 @@ wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.p
 wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-13
 ```
 
+### Dataset Briefing
+
+1. The statistics of popular ﬁne-grained datasets and our datasets. “Supervision" means the training data is manually labeled (“Manual”) or collected from the web (“Web”).
+<div align=center>
+
+![dataset-stats](asserts/dataset-stats.jpg)
+
+</div>
+
+1. Detailed construction process of training data in WebFG-496 and WebiNat-5089. “Testing Source” indicates where testing images come from. “Imbalance” is the number of images in the largest class divided by the number of images in the smallest.
+<div align=center>
+
+![dataset-construction_detail](asserts/dataset-construction_detail.jpg)
+
+</div>
+
+3. Rough label accuracy of training data estimated by random sampling for WebFG-496 and WebiNat-5089.
+<div align=center>
+
+![dataset-estimated_label_accuracy](asserts/dataset-estimated_label_accuracy.jpg)
+
+</div>
+
 ---
 
 ***Peer-learning model***
