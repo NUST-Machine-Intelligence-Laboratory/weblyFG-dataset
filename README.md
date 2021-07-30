@@ -48,7 +48,7 @@ wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.p
 
 </div>
 
-1. Detailed construction process of training data in WebFG-496 and WebiNat-5089. “Testing Source” indicates where testing images come from. “Imbalance” is the number of images in the largest class divided by the number of images in the smallest.
+2. Detailed construction process of training data in WebFG-496 and WebiNat-5089. “Testing Source” indicates where testing images come from. “Imbalance” is the number of images in the largest class divided by the number of images in the smallest.
 <div align=center>
 
 ![dataset-construction_detail](asserts/dataset-construction_detail.jpg)
