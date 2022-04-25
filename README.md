@@ -21,23 +21,7 @@ wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-car.tar.gz
 ### WebiNat-5089
 WebiNat-5089 is a large-scale webly supervised fine-grained dataset, which consists of 5089 subcategories and 1184520 web training images.
 
-Download the dataset:
-```
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-00
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-01
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-02
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-03
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-04
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-05
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-06
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-07
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-08
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-09
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-10
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-11
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-12
-wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-iNat.tar.gz.part-13
-```
+Download the dataset from [Google Drive](https://drive.google.com/drive/folders/17pWQgICvlYiBQM3PDvbXEHWUBopOBEzx?usp=sharing)
 
 ### Dataset Briefing
 
