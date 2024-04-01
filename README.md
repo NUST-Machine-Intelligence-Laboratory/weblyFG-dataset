@@ -21,7 +21,7 @@ wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-car.tar.gz
 ### WebiNat-5089
 WebiNat-5089 is a large-scale webly supervised fine-grained dataset, which consists of 5089 subcategories and 1184520 web training images.
 
-Download the dataset from [Google Drive](https://drive.google.com/drive/folders/17pWQgICvlYiBQM3PDvbXEHWUBopOBEzx?usp=sharing)
+Download the dataset from [Baidu Drive](https://pan.baidu.com/s/1oiiulbBkIiAKs5hTtGm2Gw) (code: ubvm)
 
 ### Dataset Briefing
 
