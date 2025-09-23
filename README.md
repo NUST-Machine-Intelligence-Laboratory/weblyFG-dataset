@@ -16,12 +16,12 @@ wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-aircraft.tar.
 wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-bird.tar.gz
 wget https://web-fgvc-496-5089-sh.oss-cn-shanghai.aliyuncs.com/web-car.tar.gz
 ```
-
+Or download from [Baidu Drive](https://pan.baidu.com/s/19gS5z7-izaX9cugNjGW5sA) (code: tcmt).
 
 ### WebiNat-5089
 WebiNat-5089 is a large-scale webly supervised fine-grained dataset, which consists of 5089 subcategories and 1184520 web training images.
 
-Download the dataset from [Baidu Drive](https://pan.baidu.com/s/1oiiulbBkIiAKs5hTtGm2Gw) (code: ubvm)
+Download the dataset from [Baidu Drive](https://pan.baidu.com/s/1oiiulbBkIiAKs5hTtGm2Gw) (code: ubvm).
 
 ### Dataset Briefing
 
